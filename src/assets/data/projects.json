@@ -1,0 +1,30 @@
+[
+  {
+    "title": "UBike",
+    "description": "Bicycle rental application to reduce traffic congestion and pollution in urban areas.",
+    "repos": "https://github.com/UBike-rmt-38",
+    "type": "Mobile",
+    "showcase": "https://drive.google.com/drive/folders/1jxHqmqpXMMCEdkoh-S_Q_88Jhidm0dn4?usp=sharing" 
+  },
+  {
+    "title": "KanbanZen",
+    "description": "A Kanban Board that used for organizing project task by their progress",
+    "repos": "https://github.com/Alif-Dzarif/KanbanZen-Client",
+    "type": "Website",
+    "deploy": "https://kanbanzen-10fab.web.app/"
+  },
+  {
+    "title": "Mon-Resto",
+    "description": "A website for displaying all restaurant dishes",
+    "repos": "https://github.com/Alif-Dzarif/Mon-Resto",
+    "type": "Website",
+    "deploy": "https://mon-resto-fb055.web.app/"
+  },
+  {
+    "title": "New York Times Clone",
+    "description": "A website that based from New York Times",
+    "type": "Website",
+    "repos": "https://github.com/Alif-Dzarif/NYT-Clone",
+    "deploy": "https://nyt-client.web.app/"
+  }
+]
